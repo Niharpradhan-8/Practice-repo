@@ -1,0 +1,4 @@
+I am practicising git and git hub.
+git add command to add a file into staging area.
+git commit to commit or save a file into repository.
+git status to check the status of any file .
